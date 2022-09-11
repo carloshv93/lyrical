@@ -1,0 +1,25 @@
+{
+  "name": "server",
+  "version": "0.1.0",
+  "author": {
+    "name": "Carlos Herrera",
+    "email": "carloshv93@gmail.com"
+  },
+  "main": "server.js",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "express": "^4.18.1",
+    "express-graphql": "^0.12.0",
+    "graphql": "^15.8.0",
+    "json-server": "^0.17.0",
+    "nodemon": "^2.0.19",
+    "uuid": "^9.0.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js",
+    "db": "json-server --watch db.json",
+    "dev": "nodemon server.js"
+  },
+  "license": "ISC"
+}

@@ -1,0 +1,16 @@
+{
+  "lyrics": [
+    {
+      "id": "d76b4cb1-da50-410c-a4e1-7a1bd85a04e1",
+      "content": "Get up Stand up",
+      "songId": "1757372c-1e01-4cb4-bd40-3092b931c0ff",
+      "likes": 1
+    }
+  ],
+  "songs": [
+    {
+      "id": "1757372c-1e01-4cb4-bd40-3092b931c0ff",
+      "title": "test"
+    }
+  ]
+}
